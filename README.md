@@ -1,7 +1,8 @@
 # vanhackaton
 
 Unfortunately I could not complete the repository layer, so I coded a dummy implementation
-I used the Spark Framework for managing the HTTP lifecycle and Spring Core for dependecy injection.
+
+- I used the Spark Framework for managing the HTTP lifecycle and Spring Core for dependecy injection.
 
 ## running
 
