@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Built-By: afif
+Class-Path: spark-core-2.5.4.jar slf4j-api-1.7.13.jar jetty-server-9.3
+ .6.v20151106.jar javax.servlet-api-3.1.0.jar jetty-http-9.3.6.v201511
+ 06.jar jetty-util-9.3.6.v20151106.jar jetty-io-9.3.6.v20151106.jar je
+ tty-webapp-9.3.6.v20151106.jar jetty-xml-9.3.6.v20151106.jar jetty-se
+ rvlet-9.3.6.v20151106.jar jetty-security-9.3.6.v20151106.jar websocke
+ t-server-9.3.6.v20151106.jar websocket-common-9.3.6.v20151106.jar web
+ socket-client-9.3.6.v20151106.jar websocket-servlet-9.3.6.v20151106.j
+ ar websocket-api-9.3.6.v20151106.jar vanhack-0.0.1-SNAPSHOT.jar spark
+ -template-freemarker-2.3.jar freemarker-2.3.25-incubating.jar spring-
+ core-4.3.5.RELEASE.jar commons-logging-1.2.jar spring-context-4.3.5.R
+ ELEASE.jar spring-aop-4.3.5.RELEASE.jar spring-beans-4.3.5.RELEASE.ja
+ r spring-expression-4.3.5.RELEASE.jar spring-jdbc-4.3.5.RELEASE.jar s
+ pring-tx-4.3.5.RELEASE.jar hsqldb-2.3.4.jar commons-dbcp2-2.1.1.jar c
+ ommons-pool2-2.4.2.jar jBCrypt-0.4.1.jar commons-beanutils-1.9.3.jar 
+ commons-collections-3.2.2.jar slf4j-simple-1.7.22.jar jackson-core-2.
+ 5.1.jar jackson-databind-2.5.1.jar jackson-annotations-2.5.0.jar stor
+ e-0.0.1-SNAPSHOT.jar vanhack-product-0.0.1-SNAPSHOT.jar util-0.0.1-SN
+ APSHOT.jar vanhack-cuisine-0.0.1-SNAPSHOT.jar vanhack-order-0.0.1-SNA
+ PSHOT.jar jjwt-0.6.0.jar vanhack-auth-0.0.1-SNAPSHOT.jar
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+Main-Class: com.fikani.App
+
