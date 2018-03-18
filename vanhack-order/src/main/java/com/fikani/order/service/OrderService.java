@@ -36,7 +36,7 @@ public class OrderService implements IGetById<Order> {
 
 	public Order getUserLastOrder(Long id) {
 		return this.data.values().stream().filter(o -> o.getCustomerId() == id).sorted((o1, o2) -> {
-			return o1.getDate().compareTo(o2.getDate());
+			return o2.getDate().compareTo(o1.getDate());
 		}).findFirst().orElse(null);
 	}
 
